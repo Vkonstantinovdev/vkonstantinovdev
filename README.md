@@ -1,4 +1,4 @@
-# Hi, I'm Владислав 👋
+# Hi, I'm Vladislav 👋
 
 I'm a beginner developer diving into the world of Go and Linux. I started my journey just two weeks ago, and I'm passionate about learning and growing as a developer. Currently, I’m learning Go on Stepik, where I’m working through various tutorials to improve my skills.
 
@@ -22,9 +22,5 @@ I chose Go because of its simplicity and efficiency for backend development. Lin
 - Go programming language basics and advanced concepts.
 - Linux command-line tools, system administration basics.
 
-## 📬 How to Reach Me
-- ![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_logo.svg) [@vkonstantunov](https://t.me/vkonstantunov)
-- ![Email](https://upload.wikimedia.org/wikipedia/commons/4/43/Email_icon.svg) [vkonstantinovdev@yandex.ru](mailto:vkonstantinovdev@yandex.ru)
-- ![Stepik](https://upload.wikimedia.org/wikipedia/commons/a/ab/Stepik_logo.svg) [Stepik Profile](https://stepik.org/users/1045253193/profile)
-
 Feel free to reach out if you want to chat about Go, Linux, or just programming in general!
+t about Go, Linux, or just programming in general!
